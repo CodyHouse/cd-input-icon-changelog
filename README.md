@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Input Icon - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Input Icon component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/input-icon)
+- [Info Page](https://codyhouse.co/ds/components/info/input-icon)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
